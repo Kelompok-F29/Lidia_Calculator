@@ -43,7 +43,7 @@ background-color:orange;
 button:hover{
 background-color:darkorange;
 }
-.calculator-message, .calculator-date  {
+.calculator-message {
 	width: 40%;
 	background-color:#FF9933;
 	color:#999999;
