@@ -44,7 +44,7 @@ button:hover{
 background-color:darkorange;
 }
 .calculator-message, .calculator-date  {
-	width: 100%;
+	width: 40%;
 	background-color:#FF9933;
 	color:#999999;
 	text-align: center;
